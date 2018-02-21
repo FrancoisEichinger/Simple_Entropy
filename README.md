@@ -7,7 +7,7 @@ Very simple program that returns the theoretical (max) entropy, the real entropy
 - Launch it via './entropy' (the program takes no other argument)
 
 ## Output Example
-
+For example the file 'file.txt' contains the following data 'WABBAWABBA'
 ```bash
 Character Count :
 a = 4
