@@ -1,9 +1,10 @@
 # Simple_Entropy
 Very simple program that returns the theoretical (max) entropy, the real entropy and the redundancy rate. Plus a character counter.
 
-
-
-
+## How to use
+- Edit the file 'file.txt' containing the data you wish to work on
+- compile the program via 'make run'
+- Launch it via './entropy' (the program takes no other argument)
 
 ## Output Example
 
@@ -40,4 +41,3 @@ Source entropy: 1.521928
 Maximum entropy: 1.584962
 Redundancy rate: 0.041417
 ```
-
